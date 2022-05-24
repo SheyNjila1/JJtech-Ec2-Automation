@@ -1,1 +1,1 @@
-# JJtech-Ec2-Automation
+# JJtech-Ec2-automation
